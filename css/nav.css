@@ -179,6 +179,10 @@ nav ul{
         transition: background-color 0.3s;
     }
 
+    nav ul li:nth-child(5) a:hover {
+        color: #ffba08;
+        transition: background-color 0.3s;
+    }
 }
 
 
