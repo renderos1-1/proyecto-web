@@ -32,7 +32,11 @@ header {
 
 nav {
     position: relative;
+    z-index: 1000;
+
 }
+
+
 
 nav ul {
     list-style: none;
@@ -93,6 +97,7 @@ nav ul{
     overflow: hidden;
     transition: 0.3s;
 }
+
 
 .mbar {
     width: 70px;
